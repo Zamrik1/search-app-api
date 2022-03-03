@@ -1,0 +1,120 @@
+[
+    {
+        "id": 1,
+        "name": "CSE Construction GmbH",
+        "logo": "https://randomwordgenerator.com/img/picture-generator/55e3d4424c53a414f1dc8460962e33791c3ad6e04e5074417d2d73d3904cc5_640.jpg",
+        "city": "Berlin",
+        "specialties": [
+            "concrete",
+            "coating"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Ed. Züblin AG, Bereich Ingenieur- und Infrastrukturbau",
+        "city": "Berlin",
+        "specialties": [
+            "residential",
+            "commercial",
+            "concrete"
+        ],
+        "logo": "https://randomwordgenerator.com/img/picture-generator/57e2d64a4d50a814f1dc8460962e33791c3ad6e04e507441722a72dd9f4dc1_640.jpg"
+    },
+    {
+        "id": 3,
+        "name": "PV Construction Germany GmbH & Co. KG",
+        "city": "Lastrup",
+        "specialties": [
+            "energy",
+            "electrical"
+        ],
+        "logo": "https://randomwordgenerator.com/img/picture-generator/50e8d2444a4faa0df7c5d57bc32f3e7b1d3ac3e456587049722b79d59e_640.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Aaxonbau GbR",
+        "city": "Berlin",
+        "specialties": [
+            "concrete",
+            "coating"
+        ],
+        "logo": "https://randomwordgenerator.com/img/picture-generator/57e3dd424851ac14f1dc8460962e33791c3ad6e04e507441722a72dd914fc7_640.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Mercury Frankfurt Office",
+        "city": "Frankfurt",
+        "specialties": [
+            "electrical",
+            "commercial",
+            "coating",
+            "mechanical"
+        ],
+        "logo": "https://randomwordgenerator.com/img/picture-generator/57e3d5444f53ac14f1dc8460962e33791c3ad6e04e507440772872d3914ccc_640.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Mercury Frankfurt Office 2",
+        "city": "Frankfurt",
+        "specialties": [
+            "electrical",
+            "commercial",
+            "coating",
+            "mechanical"
+        ],
+        "logo": "https://randomwordgenerator.com/img/picture-generator/54e6d5454f52a914f1dc8460962e33791c3ad6e04e50744074267bd69e4fc1_640.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Test Build Company",
+        "city": "Paris",
+        "specialties": [
+            "residential",
+            "commercial",
+            "concrete"
+        ],
+        "logo": "https://randomwordgenerator.com/img/picture-generator/57e6dc47425aaa14f1dc8460962e33791c3ad6e04e5074417d2e72d6934cc5_640.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Computing Generator Construction",
+        "city": "Berlin",
+        "specialties": [
+            "residential",
+            "commercial",
+            "concrete"
+        ],
+        "logo": "https://randomwordgenerator.com/img/picture-generator/55e6d4434956a414f1dc8460962e33791c3ad6e04e50744077297bd5914bc6_640.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Agile Construction Germany GmbH & Co. KG",
+        "city": "Lastrup",
+        "specialties": [
+            "energy",
+            "electrical"
+        ],
+        "logo": "https://randomwordgenerator.com/img/picture-generator/55e0d5464d53ab14f1dc8460962e33791c3ad6e04e507749742c78d6924ec4_640.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Alex and children & Co. GmbH",
+        "city": "Berlin",
+        "specialties": [
+            "concrete",
+            "coating"
+        ],
+        "logo": "https://randomwordgenerator.com/img/picture-generator/52e4d1474351b10ff3d8992cc12c30771037dbf852547848702a7fd0904f_640.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Construction brothers",
+        "city": "Frankfurt",
+        "specialties": [
+            "electrical",
+            "commercial",
+            "coating"
+        ],
+        "logo": "https://randomwordgenerator.com/img/picture-generator/chair-1840011_640.jpg"
+    }
+]
